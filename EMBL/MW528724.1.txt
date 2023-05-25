@@ -1,0 +1,68 @@
+ID   MW528724; SV 1; linear; genomic DNA; STD; INV; 596 BP.
+XX
+AC   MW528724;
+XX
+DT   06-OCT-2021 (Rel. 144, Created)
+DT   18-NOV-2021 (Rel. 144, Last updated, Version 2)
+XX
+DE   Turritopsis nutricula isolate BFLA4416 large subunit ribosomal RNA gene,
+DE   partial sequence; mitochondrial.
+XX
+KW   .
+XX
+OS   Turritopsis nutricula
+OC   Eukaryota; Metazoa; Cnidaria; Hydrozoa; Hydroidolina; Anthoathecata;
+OC   Filifera; Oceaniidae; Turritopsis.
+OG   Mitochondrion
+XX
+RN   [1]
+RP   1-596
+RA   Schuchert P., Collins R.;
+RT   "Hydromedusae observed during night dives in the Gulf Stream";
+RL   Rev Suisse Zool 128(2):237-356(2021).
+XX
+RN   [2]
+RP   1-596
+RA   Schuchert P.;
+RT   ;
+RL   Submitted (25-JAN-2021) to the INSDC.
+RL   Invertebrates, Natural History Museum of Geneva, Route de Malagnou 1,
+RL   Geneva 1208, Switzerland
+XX
+DR   MD5; e0860d382d43e257fdaf46a7b9066522.
+XX
+CC   ##Assembly-Data-START##
+CC   Sequencing Technology :: Sanger dideoxy sequencing
+CC   ##Assembly-Data-END##
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..596
+FT                   /organism="Turritopsis nutricula"
+FT                   /organelle="mitochondrion"
+FT                   /isolate="BFLA4416"
+FT                   /mol_type="genomic DNA"
+FT                   /country="USA: Florida, Gulf Stream, off Palm Beach"
+FT                   /lat_lon="26.7 N 79.9 W"
+FT                   /collected_by="R. Collins"
+FT                   /collection_date="28-May-2020"
+FT                   /identified_by="P. Schuchert"
+FT                   /PCR_primers="fwd_seq: tcgactgtttaccaaaaacata,
+FT                   rev_seq:acggaatgaactcaaatcatgt"
+FT                   /note="life stage: medusa"
+FT                   /db_xref="taxon:502953"
+FT   rRNA            <1..>596
+FT                   /product="large subunit ribosomal RNA"
+XX
+SQ   Sequence 596 BP; 234 A; 85 C; 102 G; 175 T; 0 other;
+     gccctcgtaa aaatcgaagg tgtaacctgc ccaatgatta ttaatttaaa agacttaaaa        60
+     aatcttgaaa ataattcaac ggacgcggta acctgaccgt ggtaatgtag cataatcaat       120
+     cgccatttaa ttgatggata gtatgaatgg ttgaacgaat attacactgt ctcaagtaaa       180
+     aattttatga aattaagata atagttaaga cgctatttca aactgtaaga cgaaaagacc       240
+     ctatagagct taactacgga ctttttcaat aaaaaccatt aataatgatt aaagaaaaag       300
+     ttaggtagtt tagttggggc gactgtcttc taaaaagaac gaagactagc aaagttaatg       360
+     acaataactt attgtttaat aaacctattt aacagttaca aaagtaggct ataatgaccc       420
+     attgaattta agaaaacaaa tcaatgatta aagaataaaa gctaccttag ggataacagg       480
+     ataattttgt tttagagatc atatcgaaga caaagtttgt cacctctatg ttgaattgag       540
+     atatcctgat aatgcagaag ttatcaaagg taggtctgtt cgacctttaa aatctc           596
+//

@@ -1,0 +1,55 @@
+ID   EU624349; SV 1; linear; genomic DNA; STD; INV; 585 BP.
+XX
+AC   EU624349;
+XX
+DT   30-APR-2009 (Rel. 100, Created)
+DT   30-APR-2009 (Rel. 100, Last updated, Version 1)
+XX
+DE   Turritopsis nutricula isolate WHOI_2 16S ribosomal RNA gene, partial
+DE   sequence; mitochondrial.
+XX
+KW   .
+XX
+OS   Turritopsis nutricula
+OC   Eukaryota; Metazoa; Cnidaria; Hydrozoa; Hydroidolina; Anthoathecata;
+OC   Filifera; Oceaniidae; Turritopsis.
+OG   Mitochondrion
+XX
+RN   [1]
+RP   1-585
+RA   Miglietta M.P., Lessios H.A.;
+RT   "A Silent Invasion";
+RL   Unpublished.
+XX
+RN   [2]
+RP   1-585
+RA   Miglietta M.P., Lessios H.A.;
+RT   ;
+RL   Submitted (08-APR-2008) to the INSDC.
+RL   Smithsonian Tropical Research Institute, Panama City, Panama
+XX
+DR   MD5; 9071cdb1e153a54f2e4a81e5db065d2c.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..585
+FT                   /organism="Turritopsis nutricula"
+FT                   /organelle="mitochondrion"
+FT                   /isolate="WHOI_2"
+FT                   /mol_type="genomic DNA"
+FT                   /db_xref="taxon:502953"
+FT   rRNA            <1..>585
+FT                   /product="16S ribosomal RNA"
+XX
+SQ   Sequence 585 BP; 236 A; 77 C; 99 G; 173 T; 0 other;
+     aaaatcgaag gtgtaacctg cccaatgatt attaatttaa aagacttaaa aaaccttgaa        60
+     aataattcaa cggacgcggt aacctgaccg tggtaatgta gcataatcaa tcgccattta       120
+     attgatggat agtatgaatg gttgaacgaa tattacactg tctcaagtaa aaattttatg       180
+     aaattaagat aatagttaag acgctatttc aaactgtaag acgaaaagac cctatagagc       240
+     ttaactacgg acttttttaa taaaaaccat taaaaatgat taaagaaaaa gttaggtagt       300
+     ttagttgggg cgactgtctt ctaaaaagaa cgaagactag caaagttaat aaaaataact       360
+     tattgtttaa taaacttatt taacaattac aaaagtaggc tataatgacc cattgagttt       420
+     aagaaagtaa atcaatgatt aaagaataaa agctacctta gggataacag gataattttg       480
+     ttttagagat catatcgaag acaaagtttg tcacctctat gttgaattga gatatcctga       540
+     taatgcaaaa gttatcaaag gtaggtctgt tcgaccttta aaatc                       585
+//

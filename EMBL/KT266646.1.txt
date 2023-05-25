@@ -1,0 +1,77 @@
+ID   KT266646; SV 1; linear; genomic DNA; STD; INV; 609 BP.
+XX
+AC   KT266646;
+XX
+DT   22-DEC-2015 (Rel. 127, Created)
+DT   20-APR-2017 (Rel. 132, Last updated, Version 3)
+XX
+DE   Turritopsis nutricula voucher MZUSP:4093 16S ribosomal RNA gene, partial
+DE   sequence; mitochondrial.
+XX
+KW   .
+XX
+OS   Turritopsis nutricula
+OC   Eukaryota; Metazoa; Cnidaria; Hydrozoa; Hydroidolina; Anthoathecata;
+OC   Filifera; Oceaniidae; Turritopsis.
+OG   Mitochondrion
+XX
+RN   [1]
+RP   1-609
+RA   Maronna M.M., Miranda T.P., Pena Cantero A.L., Barbeitos M.S.,
+RA   Marques A.C.;
+RT   "Towards a phylogenetic classification of Leptothecata (Cnidaria,
+RT   Hydrozoa)";
+RL   Unpublished.
+XX
+RN   [2]
+RP   1-609
+RA   Maronna M.M.;
+RT   ;
+RL   Submitted (08-JUL-2015) to the INSDC.
+RL   Department of Zoology, Institute of Biosciences, University of Sao Paulo,
+RL   Rua do Matao, Trav. 14, 101, Sao Paulo, Sao Paulo 05508-090, Brazil
+XX
+DR   MD5; 4bde109ecfe53fe0fc54f46491a9238c.
+XX
+CC   ##Assembly-Data-START##
+CC   Sequencing Technology :: Sanger dideoxy sequencing
+CC   ##Assembly-Data-END##
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..609
+FT                   /organism="Turritopsis nutricula"
+FT                   /organelle="mitochondrion"
+FT                   /isolate="LEM:S37"
+FT                   /mol_type="genomic DNA"
+FT                   /country="Brazil"
+FT                   /lat_lon="27 S 48.59 W"
+FT                   /isolation_source="Praia das Laranjeiras:Camboriu:Santa
+FT                   Catarina"
+FT                   /specimen_voucher="MZUSP:4093"
+FT                   /collected_by="Thais Pires Miranda"
+FT                   /collection_date="29-Nov-2006"
+FT                   /identified_by="Thais Pires Miranda"
+FT                   /dev_stage="polyp"
+FT                   /tissue_type="hydranth"
+FT                   /PCR_primers="fwd_name: C&B1_Cunningham&Buss_1993, fwd_seq:
+FT                   tcgactgtttaccaaaaacata, rev_name:
+FT                   C&B2_Cunningham&Buss_1993, rev_seq:
+FT                   acggaatgaactcaaatcatgtaag"
+FT                   /db_xref="taxon:502953"
+FT   rRNA            <1..>609
+FT                   /product="16S ribosomal RNA"
+XX
+SQ   Sequence 609 BP; 242 A; 82 C; 104 G; 181 T; 0 other;
+     catagccctc gtaaaaatcg aaggtgtgac ctgcccaatg attattaatt caaaagactt        60
+     gaaaaatctt aaaaataatt aaacggacgc ggtaacctga ccgtggtaat gtagcataat       120
+     caatcgccat ttaattgatg gatagtatga atggttaaac gaatattaca ctgtctcaag       180
+     taaaaatttt atgaaattaa gataatagtt aagacgctat ttcaaactgt aagacgaaaa       240
+     gaccctatag agcttaacta taaacttttt tgataaagat catcaagaaa tgattataaa       300
+     agaaagttag gtagtttagt tggggcgact gtcttctaaa aagaacgaag actagcaaag       360
+     ttaataaaaa taacttattg tttaatagat ttatttaaca attacaaaag taggctataa       420
+     tgacccattg agtttaagaa agtaaaccaa tgattaaaaa ataaaagcta ccttagggat       480
+     aacaggataa ttttgtttta gagaccatat cgaagacaaa gtttgtcacc tctatgttga       540
+     attgagatat cctgataatg cagaagttat caaaggtagg tctgttcgac ctttaaaatc       600
+     ttacatgat                                                               609
+//
